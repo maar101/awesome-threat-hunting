@@ -5,25 +5,23 @@
 Tools
 -----
 
-1.  [Sqrrl](https://sqrrl.com/) - Advanced threat hunting platform that offers an easy-to-use interface for hunting, investigating, and taking action against advanced threats.
+1.  [Elastic Stack](https://www.elastic.co/) - A collection of open-source tools for data management and analysis, including Elasticsearch, Logstash, and Kibana, which are commonly used for threat hunting.
 
-2.  [Elastic Stack](https://www.elastic.co/) - A collection of open-source tools for data management and analysis, including Elasticsearch, Logstash, and Kibana, which are commonly used for threat hunting.
+2.  [ThreatConnect](https://www.threatconnect.com/) - A threat intelligence platform that offers a variety of features for threat hunting, including automated threat intelligence, analytics, and collaboration tools.
 
-3.  [ThreatConnect](https://www.threatconnect.com/) - A threat intelligence platform that offers a variety of features for threat hunting, including automated threat intelligence, analytics, and collaboration tools.
+3.  [Splunk](https://www.splunk.com/) - A platform for collecting, analyzing, and visualizing machine data, which can be used for threat hunting and incident response.
 
-4.  [Splunk](https://www.splunk.com/) - A platform for collecting, analyzing, and visualizing machine data, which can be used for threat hunting and incident response.
+4.  [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - An incident response and automation platform that includes built-in threat hunting capabilities.
 
-5.  [Cortex XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - An incident response and automation platform that includes built-in threat hunting capabilities.
+5.  [Hatch](https://hatch.sh/) - An open-source platform for automating threat hunting and incident response tasks.
 
-6.  [Hatch](https://hatch.sh/) - An open-source platform for automating threat hunting and incident response tasks.
+6.  [Moloch](https://molo.ch/) - An open-source platform for full packet capture indexing, storage, and searching, which can be used for network threat hunting.
 
-7.  [Moloch](https://molo.ch/) - An open-source platform for full packet capture indexing, storage, and searching, which can be used for network threat hunting.
+7.  [Zeek](https://www.zeek.org/) - An open-source platform for network security monitoring, which can be used for threat hunting and incident response.
 
-8.  [Zeek](https://www.zeek.org/) - An open-source platform for network security monitoring, which can be used for threat hunting and incident response.
+8.  [Wireshark](https://www.wireshark.org/) - A popular open-source network protocol analyzer that can be used for threat hunting and incident response.
 
-9.  [Wireshark](https://www.wireshark.org/) - A popular open-source network protocol analyzer that can be used for threat hunting and incident response.
-
-10. [Tenable.io](https://www.tenable.com/products/tenable-io) - A vulnerability management platform that also includes features for threat hunting and incident response.
+9. [Tenable.io](https://www.tenable.com/products/tenable-io) - A vulnerability management platform that also includes features for threat hunting and incident response.
 
 Techniques
 ----------
