@@ -116,3 +116,7 @@ Methodologies
 1.  [Threat Hunting Methodology](https://www.threathuntingproject.org/methodology.html) - A methodology for conducting threat hunting that focuses on identifying and investigating potential threats, validating the threats, and taking action to mitigate or eliminate the threats.
 
 This is not an exhaustive list and there are other great resources out there as well. The field of threat hunting is ever-evolving and new resources and tools are being developed all the time. It's important to keep up with the latest developments and best practices in order to be effective in hunting threats.
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
